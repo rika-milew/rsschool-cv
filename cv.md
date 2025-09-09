@@ -97,3 +97,7 @@ const greeting = document.querySelector('.greeting');
     }
 ``` 
 
+## Contact Me
+* Call: +375 29 705 79 38
+* Email: erika.milewska@gmail.com
+* Telegram: [rika_mee](https://t.me/rika_mee)
